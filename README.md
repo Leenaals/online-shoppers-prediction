@@ -51,7 +51,7 @@ Python, pandas, scikit-learn (KNN, Decision Tree, Random Forest, GridSearchCV, S
 ```
 ├── ML_Project.ipynb             # Full analysis: EDA, preprocessing, modeling, tuning
 ├── online_shoppers_intention.csv # Dataset
-├── streamlit code.py             # Streamlit web app for live predictions
+├── streamlit_app.py             # Streamlit web app for live predictions
 ├── random_forest_model.pkl       # Trained Random Forest model
 ├── scaler.pkl                    # Fitted StandardScaler
 ├── training_columns.pkl          # Column order used at training time
