@@ -1,4 +1,4 @@
-[README_online_shoppers.md](https://github.com/user-attachments/files/29662894/README_online_shoppers.md)
+
 # Online Shoppers Purchasing Intention Prediction
 
 A machine learning classification project that predicts whether an online shopper will complete a purchase, based on their browsing session behavior — with a deployed, interactive web app.
